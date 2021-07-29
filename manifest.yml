@@ -1,6 +1,6 @@
 ---
 applications:
-  - name: pal_tracker
+  - name: pal-tracker-
     path: build/libs/pal-tracker.jar
   routes:
     - route: pal-tracker-gsudha3.apps.evans.pal.pivotal.io
